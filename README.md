@@ -15,10 +15,11 @@ NIM :311910010
 
 
 _BERIKUT INI ADALAH NILAI YANG TERCETAK ADALAH NILAI TERBESARNYA. BERIKUT HASILNYA :_
-    ![program](https://user-images.githubusercontent.com/56963083/67743902-a3919480-fa52-11e9-9f12-320aa9056d81.PNG)
+![program](https://user-images.githubusercontent.com/56963083/67743902-a3919480-fa52-11e9-9f12-320aa9056d81.PNG)
 
 _BERIKUT INI ADALAH CODE PROGRAMNYA_
 ![code programs](https://user-images.githubusercontent.com/56963083/67744139-421df580-fa53-11e9-913d-dbd265e24ade.PNG)
 
 _FLOWCHART MENCARI BILANGAN TERBESAR DARI 3 BUAH BILANGAN_
+![flowchart labspy02](https://user-images.githubusercontent.com/56963083/67744721-df2d5e00-fa54-11e9-88b6-0da8d0ed37bd.PNG)
 

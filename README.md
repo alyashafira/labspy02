@@ -1,4 +1,5 @@
 **#latihanpyton02** :octocat:
+
 **- ALYA SHAFIRA -**
 
 **NIM : 311910010**
@@ -25,4 +26,4 @@ _FLOWCHART MENCARI BILANGAN TERBESAR DARI 3 BUAH BILANGAN_
 ![flowchart labspy02](https://user-images.githubusercontent.com/56963083/67744721-df2d5e00-fa54-11e9-88b6-0da8d0ed37bd.PNG)
 
 
-**SEMOGA BERMANFAAT**
+**SEMOGA BERMANFAAT** :clap:

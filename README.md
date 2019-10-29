@@ -1,4 +1,4 @@
-**#latihanpyton02** :octocat:
+**#latihanpython02** :octocat:
 
 **- ALYA SHAFIRA -**
 
